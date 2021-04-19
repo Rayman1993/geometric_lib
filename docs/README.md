@@ -1,3 +1,9 @@
+# User agreement 
+
+Please check out License Agreement for personal usage terms and limitations
+
+---
+
 
 # How to use calculator:
 1. Run `python calculate.py`
